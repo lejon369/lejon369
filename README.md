@@ -5,7 +5,7 @@
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS/java script/penetration tester
+Skills: c/ c++ / python/ HTML / VUE JS / REACT / JS / HTML / CSS / javascript / penetration tester
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning OSCP/Full Stack Development 
